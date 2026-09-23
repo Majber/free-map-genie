@@ -3,18 +3,17 @@
     <h1 align="center">FMG: Free <a href="https://mapgenie.io">Mapgenie</a> PRO!</h1>
 </p>
 
-<p align="center">
-    <strong>🚧 FMG V3 - Work in Progress 🚧</strong>
-    <br/>
-    <a href="https://github.com/V1P3R-FMG/free-map-genie/releases/tag/v3.0.0-beta">⬇️🧪 V3 Download</a>
-</p>
+> [!WARNING]
+> **Project Status: Inactive / Unmaintained**
+> I am too busy to work on this project and find little time to game myself, so I am no longer actively using or maintaining this repository.
+> 
+> A huge thank you to the folks below for keeping the extension alive! Check out their active forks:
+> - [Vata74/free-map-genie-cloud](https://github.com/Vata74/free-map-genie-cloud)
+> - [NR2BJ/free-map-genie](https://github.com/NR2BJ/free-map-genie)
 
 ## About
 
 FMG (Free Map Genie) is a browser extension that enhances the [Mapgenie.io](https://mapgenie.io) experience by unlocking PRO features for free. Version 3 is a complete rewrite from scratch.
-
-> [!WARNING]
-> FMG V3 is actively under development and uses a new data saving approach. Do not clone and use this branch without a backup as there is a possibility of data corruption or loss.
 
 ## ✨ Pro Features unlock state
 
